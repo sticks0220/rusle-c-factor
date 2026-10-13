@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Секреты
+.env
+*.env
+*.key
+*.pem
+
+# Данные (если большие)
+data/
+*.tif
+*.tiff
+*.shp
+*.gpkg
+
+# Логи, кэш
+*.log
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Редакторы
+.vscode/
+.idea/
