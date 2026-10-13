@@ -3,7 +3,7 @@
 Пайплайн для автоматического расчёта C-фактора (фактор растительности и управления) 
 из уравнения RUSLE по данным MODIS NDVI через Google Earth Engine.
 
-![image.png](attachment:082fb308-bf48-434f-942c-1994bea8dbb0.png)
+![C-factor map](assets/c_factor_map.png)
 ## Что делает
 
 - Загружает MODIS MOD13Q1 NDVI (16-day, 250 m) за 2008–2022
